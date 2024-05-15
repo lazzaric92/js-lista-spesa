@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+
+ul {
+    font-weight: bold;
+}
+
+li {
+    padding-top: .5rem;
+    font-weight: normal;
+}

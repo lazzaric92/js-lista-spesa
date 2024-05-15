@@ -6,4 +6,5 @@ Scrivo un ciclo while durante il quale:
     creerò un li
     appenderò al li il contenuto dell'array alla posizione corrente
     appenderò il li all'ul
+    aumenterò l'indice di 1
 finché non avrò terminato gli elementi dell'array
